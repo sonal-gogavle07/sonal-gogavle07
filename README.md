@@ -19,9 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sonal-gogavle07&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br/>
-<br />
 </p>
-<br/>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
@@ -32,6 +32,8 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="linkedin">
 </a>&nbsp; &nbsp;
 </p>
+
+<hr>
 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
